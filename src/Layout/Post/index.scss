@@ -1,0 +1,29 @@
+.like-component {
+    margin-bottom: 25px;
+    margin-top: 25px;
+  
+    &.clickOnLike {
+      background: whitesmoke;
+    }
+  
+    .btn-unlike {
+      background-color: red;
+      color: white;
+    }
+  
+    .btn-like {
+      background-color: white;
+      color: black;
+    }
+    .icon {
+      background-color: white;
+      height: 30px;
+      width: 30px;
+    }
+    i.fa fa-heart{
+      background-color: red;
+      height: 15px;
+      width: 23.8px;
+   
+    }
+  }
